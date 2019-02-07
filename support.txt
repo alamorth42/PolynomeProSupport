@@ -1,0 +1,2 @@
+PolynomePro est une calculatrice qui calcule les polynomes du second degre (racines, signes et variations)
+e-mail du developpeur : achillelamorthe@gmail.com
